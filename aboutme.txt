@@ -1,0 +1,63 @@
+<html>
+
+<head>
+
+<title>นาย นันทวัฒน์ ทรัพย์พิพัฒนา</title>
+
+<center><img src = "https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/14079678_1130883086984636_7186517063381771164_n.jpg?oh=5b3923e90683a5bbaf4858c600ced2f4&oe=59116482 " width="500" height="500"></center>
+
+<br><br><br><br>
+<TABLE <TD colspan=5></TD><TD COLSPAN=5 align=center bgcolor = #FFD700 ><FONT color=#5050A0><b> <FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">My Pofile </B></FONT></TD></TR>
+</TABLE>
+
+
+<center><table>
+
+    <TABLE BORDER = "0"  cellpadding="5" cellspacing="0" >
+<TR>
+<TD><b><ins><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">ชื่อ-นามสกุล : </b></ins></TD>
+<TD  ><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">นายสกรรจ์ วรรณมร </TD>
+</TR>
+
+<TR>
+<TD ><b><ins><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">ชื่อเล่น   :</b></ins></TD>
+<TD  > <FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">แป๊ะ </TD>
+</TR>
+
+<TR>
+<TD ><b><ins><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">รหัสนิต   :</b></ins></TD>
+<TD  > <FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">58160641 </TD>
+</TR>
+
+<TR>
+<TD ><b><ins><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">คณะ :</b></ins></TD>
+<TD  > <FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">วิทยาการสารสนเทศ สาขาเทคโนโลยีสารสนเทศ </TD>
+</TR>
+
+<TR>
+<TD ><b><ins><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">มหาวิทยาลัย :</b></ins></TD>
+<TD  ><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">มหาวิทยาลัยบูรพา ชลบุรี </TD>
+</TR>
+
+<TR>
+<TD ><b><ins><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">ที่อยู่ :</b></ins></TD>
+<TD  ><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">63 หมู่ 6 ต.ปากน้ำ อ.บางคล้า จ.ฉะเชิงเทรา </TD>
+</TR>
+
+<TR>
+<TD ><b><ins><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">เบอร์โทรศัพท์ :</b></ins></TD>
+<TD ><FONT FACE = "TH SarabunPSK " SIZE ="5" COLOR= "BLACK">081-5313866 </TD>
+</TR>
+</TABLE>
+
+
+
+
+
+</head>
+
+<body>
+
+</body>
+
+</html>
